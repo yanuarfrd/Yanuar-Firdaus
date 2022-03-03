@@ -1,0 +1,17 @@
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.csproj.AssemblyReference.cache
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP_Modul_2.Form1.resources
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.csproj.GenerateResource.cache
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.AssemblyInfoInputs.cache
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.AssemblyInfo.cs
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\bin\Debug\net6.0-windows\TP Modul_2.exe
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\bin\Debug\net6.0-windows\TP Modul_2.deps.json
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\bin\Debug\net6.0-windows\TP Modul_2.runtimeconfig.json
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\bin\Debug\net6.0-windows\TP Modul_2.dll
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\bin\Debug\net6.0-windows\TP Modul_2.pdb
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.dll
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\refint\TP Modul_2.dll
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.pdb
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\TP Modul_2.genruntimeconfig.cache
+C:\Users\HP\Praktikum_KPL\Modul_2\Yanuar-Firdaus\TP Modul_2\TP Modul_2\obj\Debug\net6.0-windows\ref\TP Modul_2.dll
